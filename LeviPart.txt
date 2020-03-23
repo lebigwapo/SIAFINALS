@@ -1,0 +1,5 @@
+Script of the Demo Game
+Animation of the Main Character
+Model of the Main Character
+Animator for the game.
+USJ-R Adelante
