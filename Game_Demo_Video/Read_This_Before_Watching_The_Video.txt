@@ -1,0 +1,15 @@
+Among gi tang-tang ang Hat and Lab gown samo character maam kay maguba sya ig animate namo.
+
+1. Basic Movement Animation of the character and Enemy A.I (Run, Jump, Sprint, Walk and Attack)
+2. Enemy A.I to interact to player when it is nearby.
+3. Stats of the Player and the Enemy (Character damage and Armor).
+4. Attack the character and enemy. Character and enemy die.
+
+We dont use our terrain maam, kay dili kadaug ako lap-top, maong plane surface lang sa para gaan.
+Other Additional is The Healthbar, and the Enemy(A.I) Animation.
+And we put some picture because we dont have any video editor.
+
+Internal_Crisis
+Levi Llenares
+Stanly Bodiongan
+Ivan Garcia
